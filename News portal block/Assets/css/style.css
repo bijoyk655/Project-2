@@ -1,0 +1,183 @@
+* {
+  margin: 0px;
+}
+
+body {
+    background-color: rgb(29, 209, 29);
+}
+
+h1 {
+    text-align: center;
+    flood-color: yellow;
+    font-size: 60px;
+    font-family: candara;
+}
+
+.post1 {
+
+  background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post1 h2 {
+    font-family: Comic Sans MS;
+  color: white;
+  font-weight: normal;
+  font-size: 30px;
+}
+
+.post1 img {
+    width: 350px;
+}
+
+.post1 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.post2 {
+    background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post2 h2{
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+  } 
+
+.post2 img {
+    width: 350px;
+  }
+
+.post2 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+
+.post3 {
+    background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post3 h2{
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+  } 
+
+.post3 img {
+    width: 350px;
+  }
+
+.post3 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+
+.post4 {
+    background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post4 h2{
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+  } 
+
+.post4 img {
+    width: 350px;
+  }
+
+.post4 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+
+.post5 {
+    background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post5 h2{
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+  } 
+
+.post5 img {
+    width: 350px;
+  }
+
+.post5 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+.post6 {
+    background-color:red;
+  width: 650px;
+  margin: 50px auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+.post6 h2{
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: normal;
+    font-size: 30px;
+  } 
+
+.post6 img {
+    width: 350px;
+  }
+
+.post6 p {
+    color: rgb(9, 205, 240);
+    font-family: candara;
+    margin-bottom: 20px;
+    text-align: justify;
+  }  

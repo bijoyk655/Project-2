@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+}
+
+.team {
+    background-color: grey;
+    text-align: center;
+    padding: 30px 0px;
+    width: 100%;
+    margin: 30px auto;
+}
+
+.team img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+  
+.team h2 {
+    font-family: Comic Sans MS;
+    font-weight: normal;
+    color: #FFF;
+    font-size: 40px;
+}
+  
+.team  p {
+    font-family: Edwardian Script ITC;
+    color: rgb(115, 255, 0);
+    width: 70%;
+    margin: 0px auto;
+    font-size: 15px;
+}

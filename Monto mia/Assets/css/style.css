@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+}
+
+.box1, .box3 {
+    height: 300px;
+    width: 100%;
+    background-color: #4da8b4;
+}
+
+.box2 {
+    height: 600px;
+    width: 100%;
+    background-image: url(../img/car.jpg);
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.box2 h1 {
+    font-size: 40px;
+    font-family:Segoe Print ;
+    margin-left: 20px;
+
+}
+
+.box2 h2 {
+font-size: 35px;
+font-family: Candara;
+margin-left: 20px;
+font-style: italic;
+}
+
+
+.box2 p {
+    font-size: 25px;
+    margin-left: 20px;
+    font-family: fantasy;
+    font-style: italic;
+    color:rgb(224, 10, 10);
+    
+}
